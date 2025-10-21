@@ -1,6 +1,11 @@
 ---
 layout: home
 ---
+<div class="page-header">
+  <h1 class="project-name">{{ site.title }}</h1>
+  <p class="project-tagline">{{ site.description }}</p>
+</div>
+
 ## 김서현(Kim Seohyeon)
 AI 와 데이터를 이용하여 프로젝트를 진행했습니다.<br>
 Azure, Flask, RAG, LSTM 등 다양한 기술을 활용해 문제를 정의하고 적절한 솔루션을 설계합니다.
