@@ -1,8 +1,7 @@
 # 👋 김서현 | AI Developer & Data Engineer
 
-AI와 데이터를 통해 실질적인 변화를 만드는 개발자입니다.  
-Azure, Flask, RAG, LSTM 등 다양한 기술을 활용해  
-문제를 정의하고, 데이터 기반 솔루션을 설계합니다.
+AI 와 데이터를 이용하여 프로젝트를 진행했습니다. 
+Azure, Flask, RAG, LSTM 등 다양한 기술을 활용해 문제를 정의하고 적절한 솔루션을 설계합니다.
 
 ---
 
@@ -18,18 +17,17 @@ Azure, Flask, RAG, LSTM 등 다양한 기술을 활용해
 
 ## 🧠 기술 스택
 
-**Languages:** Python, SQL, JavaScript  
+**Languages:** Python, JavaScript  
 **Frameworks:** Flask, Django REST, React Native  
 **AI/ML:** Azure ML, OpenAI, TensorFlow, Scikit-learn  
-**Data & Cloud:** Azure Cognitive Services, Blob Storage, AI Search  
-**Version Control:** Git, GitHub  
+**Data & Cloud:** Azure Cognitive Services, Blob Storage, AI Search, Document Intelligence
+**Version Control:** Github, Fork
 
 ---
 
-## 🏅 수상 및 활동
+## 🏅 수상 및 자격증
 - Microsoft AI School 7기 Final Project **장려상 수상**
-- Azure 기반 RAG 챗봇 및 AI 서비스 구축 경험
-- 데이터 기반 의사결정 및 모델 신뢰성 향상 프로젝트 다수 수행  
+- Microsoft Certified Fundemantals AI-900 보유
 
 ---
 
