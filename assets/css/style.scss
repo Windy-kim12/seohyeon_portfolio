@@ -1,18 +1,69 @@
+
 @import "{{ site.theme }}";
 
-/* 헤더 배경 색상 변경 */
+/* 상단 헤더(그라데이션 제거, 차분한 배경) */
 .page-header {
-  background: linear-gradient(120deg, #c6c9cf, #7E91B9); /* 원하는 색상 */
-  border: none;
+  background: #f4f4f4;              /* 밝은 회색 배경 */
+  border-bottom: 1px solid #e1e1e1; /* 은은한 경계선 */
   padding: 3.5rem 1.5rem;
 }
 
-/* 제목 / 부제목 글씨색 */
-.project-name { color: #FFFFFF; font-weight: 800; }
-.project-tagline { color: rgba(255,255,255,0.9); }
+/* 제목 / 부제목 색상 */
+.project-name {
+  color: #222222;       /* 짙은 회색 (거의 블랙) */
+  font-weight: 800;
+  letter-spacing: 0.3px;
+}
 
-/* 본문 링크 색 */
-a { color: #b26eae; }
-a:hover { text-decoration: underline; }
+.project-tagline {
+  color: #555555;       /* 중간 회색 */
+  font-weight: 400;
+}
 
-.btn { display:none; }
+/* 본문 기본 색상 */
+body, .main-content {
+  color: #333333;       /* 본문 글자색 */
+  background: #ffffff;  /* 배경색은 순백 */
+}
+
+/* 제목 (h1, h2, h3) 스타일 */
+.main-content h1, .main-content h2, .main-content h3 {
+  color: #111111;       /* 진한 블랙톤 제목 */
+  border-bottom: none;  /* 밑줄 제거 */
+  font-weight: 700;
+}
+
+/* 링크 색상 (심플한 그레이 블루톤) */
+a {
+  color: #555555;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #000000;
+  text-decoration: underline;
+}
+
+/* 표(Table) / 코드블록 보정 */
+table td, table th, pre, code {
+  color: #222 !important;
+  background: #f8f8f8;
+  border-radius: 3px;
+}
+
+/* 구분선, 리스트, 본문 간격 */
+hr {
+  border: none;
+  border-top: 1px solid #eaeaea;
+}
+
+ul, ol {
+  margin-bottom: 1rem;
+  line-height: 1.7;
+}
+
+/* 푸터 텍스트 (있다면) */
+.site-footer {
+  color: #999;
+}

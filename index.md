@@ -1,4 +1,4 @@
-# 김서현(Seohyeon Kim) 
+## 김서현(Seohyeon Kim) 
 
 AI 와 데이터를 이용하여 프로젝트를 진행했습니다. 
 Azure, Flask, RAG, LSTM 등 다양한 기술을 활용해 문제를 정의하고 적절한 솔루션을 설계합니다.

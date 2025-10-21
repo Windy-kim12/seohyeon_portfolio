@@ -1,4 +1,4 @@
-# 💬 YoungSeek (영식이) – 해외 영수증 기반 RAG 챗봇 서비스
+## 💬 YoungSeek (영식이) – 해외 영수증 기반 RAG 챗봇 서비스
 
 Microsoft AI School 2차 프로젝트 (2025.07)  
 👥 김서현 · (팀원 4명)
