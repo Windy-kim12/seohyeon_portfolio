@@ -1,5 +1,3 @@
-![](./assets/banner.svg)
-
 # 김서현(Seohyeon Kim) 
 
 AI 와 데이터를 이용하여 프로젝트를 진행했습니다. 
@@ -8,8 +6,8 @@ Azure, Flask, RAG, LSTM 등 다양한 기술을 활용해 문제를 정의하고
 ---
 
 ## 간단한 자기소개
-**최종 학력:** 부산대학교(Pusan National University) 
-**전공:** 독어독문학과 / **부전공:** 미디어커뮤니케이션
+**최종 학력:** 부산대학교(Pusan National University)<br>
+**전공:** 독어독문학과 / **부전공:** 미디어커뮤니케이션<br>
 **참여 프로그램:** Microsoft AI School 7기(25.04~25.09)
 
 ---
@@ -36,11 +34,11 @@ Azure, Flask, RAG, LSTM 등 다양한 기술을 활용해 문제를 정의하고
 ## 🏅 수상 및 자격증
 - Microsoft AI School 7기 Final Project **장려상 수상**
 - Microsoft Certified Fundemantals AI-900 보유
-- TOEIC Speaking - AL(170점) 보유
-- Goethe Zertifikat - B1 보유 
+- TOEIC Speaking - AdavancedLow(170점) 보유
+
 ---
 
 ## 📫 Contact
 - 📧 Email: windykim96@gmail.com  
-- 🌐 GitHub: [github.com/kimseohyun](https://github.com/kimseohyun)  
-- 💼 LinkedIn: [linkedin.com/in/kimseohyun](https://linkedin.com/in/kimseohyun)  
+- 🌐 GitHub: [github.com/windy-kim12](https://github.com/windy-kim12)  
+- 💼 LinkedIn: [linkedin.com/in/seohyeon-kim-80723b2a5](www.linkedin.com/in/seohyeon-kim-80723b2a5)  

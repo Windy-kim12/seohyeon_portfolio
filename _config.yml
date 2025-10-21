@@ -1,3 +1,9 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme 
+
+title: Kim Seohyeon Portfolio
+description: AI 프로젝트, RAG 모델, 데이터 기반 서비스의 기록
+show_downloads: false
+theme: jekyll-theme-cayman
+repository: windy-kim12/seohyeon_portfolio

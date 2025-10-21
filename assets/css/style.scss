@@ -1,0 +1,18 @@
+@import "{{ site.theme }}";
+
+/* 헤더 배경 색상 변경 */
+.page-header {
+  background: linear-gradient(120deg, #c6c9cf, #7E91B9); /* 원하는 색상 */
+  border: none;
+  padding: 3.5rem 1.5rem;
+}
+
+/* 제목 / 부제목 글씨색 */
+.project-name { color: #FFFFFF; font-weight: 800; }
+.project-tagline { color: rgba(255,255,255,0.9); }
+
+/* 본문 링크 색 */
+a { color: #4972C3; }
+a:hover { text-decoration: underline; }
+
+.btn { display:none; }
