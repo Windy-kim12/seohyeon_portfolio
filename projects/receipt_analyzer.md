@@ -104,8 +104,13 @@ Blob Storage의 동일 CSV 구조를 유지하고, 벡터 필드 문자열화를
 
 
 🖼️ **GPT 성능 개선**  
+---
+
 **BEFORE**
 ![](../assets/gpt_before.png)
+
+---
+
 **AFTER**
 ![](../assets/gpt_after.png)
 

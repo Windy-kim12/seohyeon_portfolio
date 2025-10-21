@@ -92,13 +92,19 @@ JobAI는 사용자의 면접 데이터를 AI가 실시간으로 분석하고,
 ![](../assets/coverletter1.png)
 ![](../assets/coverletter2.png)
 
+--- 
+
 **이력서**
 ![](../assets/cv1.png)
 ![](../assets/cv2.png)
 
+---
+
 **면접**
 ![](../assets/interview.png)
 ![](../assets/interview2.jpeg)
+
+---
 
 **채용 달력**
 ![](../assets/google.png)
