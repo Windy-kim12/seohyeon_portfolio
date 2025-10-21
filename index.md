@@ -1,10 +1,4 @@
----
-layout: home
----
-<div class="page-header">
-  <h1 class="project-name">{{ site.title }}</h1>
-  <p class="project-tagline">{{ site.description }}</p>
-</div>
+
 
 ## 김서현(Kim Seohyeon)
 AI 와 데이터를 이용하여 프로젝트를 진행했습니다.<br>
