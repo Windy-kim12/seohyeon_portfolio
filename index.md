@@ -1,11 +1,13 @@
-# Portfolio of Seohyeon Kim
+---
+layout: home
+---
 ## 김서현(Kim Seohyeon)
 AI 와 데이터를 이용하여 프로젝트를 진행했습니다.<br>
 Azure, Flask, RAG, LSTM 등 다양한 기술을 활용해 문제를 정의하고 적절한 솔루션을 설계합니다.
 
 ---
 
-## 간단한 자기소개
+## 자기소개
 **최종 학력:** 부산대학교(Pusan National University)<br>
 **전공:** 독어독문학과 / **부전공:** 미디어커뮤니케이션<br>
 **참여 프로그램:** Microsoft AI School 7기(25.04~25.09)
