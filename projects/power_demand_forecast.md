@@ -1,9 +1,7 @@
 # ⚡ 공공데이터 기반 일일 최대 전력 수요 예측 모델 (Team 피카츄)
 
 Microsoft AI School 1차 프로젝트 (2024.05–06)  
-Team 1조 피카츄  
-👥 김가은 · 김서현 · 이용재 · 이혜은 · 장은호
-
+👥 김서현 · (팀원 4명)
 ---
 
 ## 🎯 Project Overview
@@ -46,6 +44,9 @@ Team 1조 피카츄
 - 정규화(MinMax, Z-score), 차분으로 정상성 확보  
 - CPI를 반영한 실질 전기요금 변수 추가  
 
+🖼️ **데이터 전처리 파이프라인**  
+![](../assets/data_preprocessing.png)
+
 3️⃣ **모델 학습 및 평가**
 - BDT, DFR, LR, SVM, KNN, Ensemble, NNR, LSTM 모델 비교  
 - MAE / RMSE / R² 기준으로 성능 평가  
@@ -54,6 +55,11 @@ Team 1조 피카츄
 - Python Machine Learning / Deep Learning 모델 비교
 - 최종적으로 R2: 0.72, MAE: 0.095, RMSE: 0.14의 결과를 낸 "LSTM" 모델을 선택
 
+🖼️ **Azure ML Designer 모델 구성 화면**  
+![](../assets/azure_designer.jpeg)
+🖼️ **LSTM 모델 결과**  
+![](../assets/lstm_structure.jpeg)
+
 4️⃣ **웹 구현**
 - Flask 기반 웹페이지에서 사용자가 날짜·온도 입력  
 - 사전 학습된 모델(.pkl) 불러와 예측 수행  
@@ -61,7 +67,7 @@ Team 1조 피카츄
 
 ---
 
-## 👩‍💻 김서현 역할 (Role)
+## 👩‍💻 주된 역할 (Role)
 
 - **데이터 전처리 및 정규화**  
   - Feature selection, VIF 점검, 이상치 처리  
@@ -81,15 +87,7 @@ Team 1조 피카츄
 | 주요 개선점 | Feature Importance 기반 변수 조정으로 과적합 완화 |
 | 배포 성과 | 웹 예측 플랫폼 시연 완성 (날짜 입력 → 예측 결과 시각화) |
 | 책임있는 AI | 공정성: 다양한 모델 비교 / 투명성: 모델·데이터 공개 / 신뢰성: 전처리 명시 |
-
----
-
-## 🌱 한 줄 회고
-
-> “처음으로 시계열 데이터를 다루며  
-> ‘데이터를 이해하는 과정이 모델링의 절반’이라는 걸 배웠습니다.”  
-> – 김서현
-
+| 평가 | 개별 평가에서 1등을 수상 
 ---
 
 ## 🔗 Reference Links
