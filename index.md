@@ -10,8 +10,8 @@ Azure, Flask, RAG, LSTM 등 다양한 기술을 활용해
 
 | 프로젝트 | 분야 | 핵심 기술 |
 |-----------|--------|------------|
-| ⚡ [전력 수요량 예측 시스템](./projects/power-demand-forecast.md) | 시계열 예측 | Azure ML, LSTM |
-| 💬 [해외 영수증 기반 RAG 모델](./projects/receipt-analyzer.md) | NLP / Document AI | Flask, Azure OpenAI, Document Intelligence |
+| ⚡ [전력 수요량 예측 시스템](./projects/power_demand_forecast.md) | 시계열 예측 | Azure ML, LSTM |
+| 💬 [해외 영수증 기반 RAG 모델](./projects/receipt_analyzer.md) | NLP / Document AI | Flask, Azure OpenAI, Document Intelligence |
 | 🤖 [AI 면접 솔루션 JobAI](./projects/jobai.md) | Generative AI | React Native, Azure OpenAI, Prompt Engineering |
 
 ---
@@ -34,6 +34,6 @@ Azure, Flask, RAG, LSTM 등 다양한 기술을 활용해
 ---
 
 ## 📫 Contact
-- 📧 Email: seohyun.ai.dev@gmail.com  
+- 📧 Email: windykim96@gmail.com  
 - 🌐 GitHub: [github.com/kimseohyun](https://github.com/kimseohyun)  
 - 💼 LinkedIn: [linkedin.com/in/kimseohyun](https://linkedin.com/in/kimseohyun)  
