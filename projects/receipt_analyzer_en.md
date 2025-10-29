@@ -62,7 +62,7 @@ In short, it is a fully automated AI workflow for data processing, retrieval, an
 
 ---
 
-## 👩‍💻 Role: Kim Seohyun
+## 👩‍💻 Role: Kim Seohyeon
 
 - **RAG Pipeline Engineering**
   - Designed embedding structure and Azure Search indexing schema  

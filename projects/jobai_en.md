@@ -50,7 +50,7 @@ and provides **personalized improvement feedback** based on speech, facial expre
 
 ---
 
-## 👩‍💻 Role: Kim Seohyun
+## 👩‍💻 Role: Kim Seohyeon
 
 - **Frontend Development (React Native / Expo)**  
   - Designed real-time interview UI and handled camera/mic data flow  

@@ -78,7 +78,7 @@ to reduce power overproduction and enhance grid stability and efficiency.
 
 ---
 
-## 👩‍💻 Role: Kim Seohyun
+## 👩‍💻 Role: Kim Seohyeon
 
 - **Data Preprocessing & Normalization**  
   - Performed feature selection, VIF check, and outlier handling  
