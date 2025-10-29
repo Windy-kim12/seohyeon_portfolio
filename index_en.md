@@ -23,9 +23,9 @@ I focus on defining problems clearly and designing optimized, practical solution
 
 | Project | Domain | Key Technologies |
 |----------|---------|------------------|
-| ⚡ [Power Demand Forecasting System](./projects/power_demand_forecast.md) | Time Series Forecasting | Azure ML, LSTM |
-| 💬 [YoungSeek: Receipt-based RAG Model](./projects/receipt_analyzer.md) | NLP / Document AI | Flask, Azure OpenAI, Document Intelligence |
-| 🤖 [JobAI: AI Interview Coaching Solution](./projects/jobai.md) | Generative AI | React Native, Azure OpenAI, Prompt Engineering |
+| ⚡ [Power Demand Forecasting System](./projects/power_demand_forecast_en.md) | Time Series Forecasting | Azure ML, LSTM |
+| 💬 [YoungSeek: Receipt-based RAG Model](./projects/receipt_analyzer_en.md) | NLP / Document AI | Flask, Azure OpenAI, Document Intelligence |
+| 🤖 [JobAI: AI Interview Coaching Solution](./projects/jobai_en.md) | Generative AI | React Native, Azure OpenAI, Prompt Engineering |
 
 ---
 
