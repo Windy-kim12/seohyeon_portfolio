@@ -35,6 +35,7 @@ Azure, Flask, RAG, LSTM 등 다양한 기술을 활용해 문제를 정의하고
 **AI/ML:** Azure ML, OpenAI, TensorFlow, Scikit-learn  
 **Data & Cloud:** Azure Cognitive Services, Blob Storage, AI Search, Document Intelligence
 **Version Control:** Github, Fork
+**Data & Productivity Tools:** Microsoft Excel, Microsoft Access, Microsoft Powerpoint, Microsoft PowerBI
 
 ---
 
@@ -42,6 +43,7 @@ Azure, Flask, RAG, LSTM 등 다양한 기술을 활용해 문제를 정의하고
 - Microsoft AI School 7기 Final Project **장려상 수상**
 - Microsoft Certified Fundemantals AI-900 보유
 - TOEIC Speaking - AdavancedLow(170점) 보유
+- Goethe Zertifikat B1
 
 ---
 
@@ -49,3 +51,8 @@ Azure, Flask, RAG, LSTM 등 다양한 기술을 활용해 문제를 정의하고
 - 📧 Email: windykim96@gmail.com  
 - 🌐 GitHub: [github.com/windy-kim12](https://github.com/windy-kim12)  
 - 💼 LinkedIn: [linkedin.com/in/seohyeon-kim-80723b2a5](www.linkedin.com/in/seohyeon-kim-80723b2a5)  
+
+---
+
+[🇺🇸 English Version](./index_en.md)
+
